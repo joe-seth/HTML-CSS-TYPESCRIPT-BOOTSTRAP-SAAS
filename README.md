@@ -30,7 +30,7 @@
   <td>03</td>
   <td><a href="https://github.com/joe-seth/Minifood-Responsive">MiniFood</a></td>
   <td>A small website using responsive CSS</td>
-  <td>HTML CSS/td>
+  <td>HTML CSS</td>
   <td><a href ="https://github.com/joe-seth/Minifood-Responsive">View Project</a></td>
   </tr>
   <tr>
